@@ -42,7 +42,7 @@ Every Rush SR config comes pre-configured with:
 ### Math Channels
 - **Brake Bias** — front/rear brake pressure ratio
 - **Brake Perc** — brake load as a percentage
-- **RPM OilP Ratio** — oil pressure relative to RPM (engine health indicator)
+- **RPM OilP Ratio** — oil pressure as a percentage of what's expected for the current RPM. Since oil pressure scales with engine speed, a raw PSI number alone doesn't tell you much — 20 psi at idle is fine, but 20 psi at 8000 RPM is a serious problem. This channel normalizes pressure against RPM so you can spot issues at a glance. Values above 100% are healthy (expect 500–700% on a cold start, ~200% heading out for an outlap). Below 100% means pressure is lower than expected and the dash will start alerting. This channel also drives the **Check Oil Fill** and **Check Oil Pump** alarms.
 - **OilP Mult** — oil pressure multiplied for display scaling
 
 ### Safety Alarms
