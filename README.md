@@ -68,6 +68,21 @@ Alarms display warning text on screen and blink the dash LEDs:
 - Channel assignments for brake pressure, throttle, oil pressure, speed, and more
 - Ready for video overlay rendering in RS3
 
+## Custom Sensors
+
+Each release also includes `.snsr` sensor definition files for cars with aftermarket sensors:
+
+| Sensor | Use Case |
+|--------|----------|
+| **6gal fuel level sender** | Standard Rush SR fuel tank |
+| **12gal fuel level sender** | 12-gallon endurance tank |
+| **150psi pressure sensor** | Oil pressure transducer |
+| **1000psi pressure sensor** | Brake pressure transducers |
+
+Download the `.snsr` file, go to **Sensors → Import** in RS3, then assign the sensor to the appropriate channel. See the [fuel sender setup guide](https://manual.rush.sr/aim-dashes-and-smartycams#installing-a-fuel-level-sender) in the owner's manual for step-by-step instructions.
+
+> **Note:** If you download a Rush config from this releases page, the 6-gallon fuel sender and brake pressure sensors are already pre-configured. You only need the `.snsr` files if you're adding sensors to a custom configuration or switching tank sizes.
+
 ## Merging Configurations
 
 Already have a config with your own customizations? Use the **[AiM Config Merge Tool](https://rushautoworks.com/aim-config-merge/)** to merge the latest Rush alarms, math channels, and sensor definitions into your existing configuration without losing your personal settings.
