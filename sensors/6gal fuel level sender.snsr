@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<User_CustomSensor>
+  <e c="Sensor" i="20250602_124749_25404">
+    <p n="AddedAs">Imported on</p>
+    <p n="AddedAsDate">2025/06/17 21:17:14</p>
+    <p n="COMMENTO"></p>
+    <p n="DATE_TIME">2025/06/02 17:47:49</p>
+    <p n="EGruppoSensoreDB">1</p>
+    <p n="Gain">1</p>
+    <p n="Hi">22.7125</p>
+    <p n="In">mV</p>
+    <p n="InitValue">0</p>
+    <p n="Lo">0</p>
+    <p n="MaxHz">1000</p>
+    <p n="MeasuredObject">FID_OBJ_FUEL</p>
+    <p n="MinHz">0.001</p>
+    <p n="PartNumber"></p>
+    <p n="PathImg"></p>
+    <p n="PhysicalQuantity">FID_PHI_VOLUME</p>
+    <p n="PuntiCrescenti">1</p>
+    <p n="Type">ana</p>
+    <p n="UIB">l</p>
+    <p n="UIV">gal</p>
+    <p n="UPDATE_TIME"></p>
+    <p n="UsaPullUpResistor">0</p>
+    <p n="UsaReverseGear">1</p>
+    <p n="UseFidGoPrecise">0</p>
+    <p n="available_points"></p>
+    <p n="calib">none</p>
+    <p n="cmax">100000</p>
+    <p n="custSens">1</p>
+    <p n="div">1</p>
+    <p n="divBlade">1</p>
+    <p n="gettext_NAME">Short Fuel Level</p>
+    <p n="mul">1</p>
+    <p n="rUp">2700</p>
+    <p n="scalinato">0</p>
+    <p n="tdig"></p>
+    <p n="tpar">none</p>
+    <p n="trashed">0</p>
+    <e c="ConvFunc" i="points">
+      <p n="1035">19.15418831</p>
+      <p n="1269">17.5037483686</p>
+      <p n="1493">15.6110420139</p>
+      <p n="1707">13.4836400712</p>
+      <p n="2040">11.3562381284</p>
+      <p n="2420">9.19855288403</p>
+      <p n="3005">0</p>
+      <p n="500">22.7124762569</p>
+      <p n="530">22.2279434301</p>
+      <p n="787">20.808413664</p>
+    </e>
+    <e c="ParAssociatiMisura" i="ParAssociatiMisura.1.2">
+      <p n="ParAssMis_Toff">0</p>
+    </e>
+  </e>
+  <e c="Sensor" i="20250602_124749_25404v1">
+    <p n="AddedAs">Imported on</p>
+    <p n="AddedAsDate">2025/06/17 21:17:14</p>
+    <p n="COMMENTO"></p>
+    <p n="DATE_TIME">2025/06/02 17:57:46</p>
+    <p n="EGruppoSensoreDB">1</p>
+    <p n="Gain">1</p>
+    <p n="Hi">22.7125</p>
+    <p n="In">mV</p>
+    <p n="InitValue">0</p>
+    <p n="Lo">0</p>
+    <p n="MaxHz">1000</p>
+    <p n="MeasuredObject">FID_OBJ_FUEL</p>
+    <p n="MinHz">0.001</p>
+    <p n="PartNumber"></p>
+    <p n="PathImg"></p>
+    <p n="PhysicalQuantity">FID_PHI_VOLUME</p>
+    <p n="PuntiCrescenti">1</p>
+    <p n="Type">ana</p>
+    <p n="UIB">l</p>
+    <p n="UIV">gal</p>
+    <p n="UPDATE_TIME"></p>
+    <p n="UsaPullUpResistor">0</p>
+    <p n="UsaReverseGear">1</p>
+    <p n="UseFidGoPrecise">0</p>
+    <p n="available_points"></p>
+    <p n="calib">none</p>
+    <p n="cmax">100000</p>
+    <p n="custSens">1</p>
+    <p n="div">1</p>
+    <p n="divBlade">1</p>
+    <p n="gettext_NAME">6 gal fuel level</p>
+    <p n="mul">1</p>
+    <p n="rUp">2700</p>
+    <p n="scalinato">0</p>
+    <p n="tdig"></p>
+    <p n="tpar">none</p>
+    <p n="trashed">0</p>
+    <e c="ConvFunc" i="points">
+      <p n="1035">19.15418831</p>
+      <p n="1269">17.5037483686</p>
+      <p n="1493">15.6110420139</p>
+      <p n="1707">13.4836400712</p>
+      <p n="2040">11.3562381284</p>
+      <p n="2420">9.19855288403</p>
+      <p n="3005">0</p>
+      <p n="500">22.7124762569</p>
+      <p n="530">22.2279434301</p>
+      <p n="787">20.808413664</p>
+    </e>
+    <e c="ParAssociatiMisura" i="ParAssociatiMisura.2.2">
+      <p n="ParAssMis_Toff">0</p>
+    </e>
+  </e>
+  <e c="Sensor" i="20250602_124749_25404v2">
+    <p n="AddedAs">Imported on</p>
+    <p n="AddedAsDate">2025/06/17 21:17:14</p>
+    <p n="COMMENTO"></p>
+    <p n="DATE_TIME">2025/06/17 21:17:32</p>
+    <p n="EGruppoSensoreDB">1</p>
+    <p n="Gain">1</p>
+    <p n="Hi">22.7125</p>
+    <p n="In">mV</p>
+    <p n="InitValue">0</p>
+    <p n="Lo">0</p>
+    <p n="MaxHz">1000</p>
+    <p n="MeasuredObject">FID_OBJ_FUEL</p>
+    <p n="MinHz">0.001</p>
+    <p n="PartNumber"></p>
+    <p n="PathImg"></p>
+    <p n="PhysicalQuantity">FID_PHI_VOLUME</p>
+    <p n="PuntiCrescenti">1</p>
+    <p n="Type">ana</p>
+    <p n="UIB">l</p>
+    <p n="UIV">gal</p>
+    <p n="UPDATE_TIME"></p>
+    <p n="UsaPullUpResistor">0</p>
+    <p n="UsaReverseGear">1</p>
+    <p n="UseFidGoPrecise">0</p>
+    <p n="available_points"></p>
+    <p n="calib">none</p>
+    <p n="cmax">100000</p>
+    <p n="custSens">1</p>
+    <p n="div">1</p>
+    <p n="divBlade">1</p>
+    <p n="gettext_NAME">6 gal Fuel Level Sender</p>
+    <p n="mul">1</p>
+    <p n="rUp">2700</p>
+    <p n="scalinato">0</p>
+    <p n="tdig"></p>
+    <p n="tpar">none</p>
+    <p n="trashed">0</p>
+    <e c="ConvFunc" i="points">
+      <p n="1035">19.15418831</p>
+      <p n="1269">17.5037483686</p>
+      <p n="1493">15.6110420139</p>
+      <p n="1707">13.4836400712</p>
+      <p n="2040">11.3562381284</p>
+      <p n="2420">9.19855288403</p>
+      <p n="3005">0</p>
+      <p n="500">22.7124762569</p>
+      <p n="530">22.2279434301</p>
+      <p n="787">20.808413664</p>
+    </e>
+    <e c="ParAssociatiMisura" i="ParAssociatiMisura.3.2">
+      <p n="ParAssMis_Toff">0</p>
+    </e>
+  </e>
+</User_CustomSensor>
