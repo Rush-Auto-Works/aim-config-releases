@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<User_CustomSensor>
+  <e c="Sensor" i="20250610_180648_18544">
+    <p n="AddedAs"></p>
+    <p n="AddedAsDate"></p>
+    <p n="COMMENTO"></p>
+    <p n="DATE_TIME">2025/06/10 23:06:48</p>
+    <p n="EGruppoSensoreDB">1</p>
+    <p n="Gain">1</p>
+    <p n="Hi">68.9474</p>
+    <p n="In">mV</p>
+    <p n="InitValue">0</p>
+    <p n="Lo">0</p>
+    <p n="MaxHz">1000</p>
+    <p n="MeasuredObject">FID_OBJ_UNDEFINED</p>
+    <p n="MinHz">0.001</p>
+    <p n="PartNumber"></p>
+    <p n="PathImg"></p>
+    <p n="PhysicalQuantity">FID_PHI_PRESSURE</p>
+    <p n="PuntiCrescenti">1</p>
+    <p n="Type">ana</p>
+    <p n="UIB">bar</p>
+    <p n="UIV">psi</p>
+    <p n="UPDATE_TIME"></p>
+    <p n="UsaPullUpResistor">0</p>
+    <p n="UsaReverseGear">1</p>
+    <p n="UseFidGoPrecise">0</p>
+    <p n="available_points"></p>
+    <p n="calib">none</p>
+    <p n="cmax">100000</p>
+    <p n="custSens">1</p>
+    <p n="div">1</p>
+    <p n="divBlade">1</p>
+    <p n="gettext_NAME">1000psi Pressure Sensor</p>
+    <p n="mul">1</p>
+    <p n="rUp">2700</p>
+    <p n="scalinato">0</p>
+    <p n="tdig"></p>
+    <p n="tpar">none</p>
+    <p n="trashed">0</p>
+    <e c="ParAssociatiMisura" i="ParAssociatiMisura.1.2">
+      <p n="ParAssMis_Toff">0</p>
+    </e>
+    <e c="ConvFunc" i="points">
+      <p n="4500">68.9474463908</p>
+      <p n="500">0</p>
+    </e>
+    <e c="ParAssociatiMisura" i="ParAssociatiMisura.1.3">
+      <p n="ParAssMis_Toff">0</p>
+    </e>
+  </e>
+</User_CustomSensor>
