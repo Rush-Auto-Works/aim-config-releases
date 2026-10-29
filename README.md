@@ -12,8 +12,8 @@ Pre-built AiM RaceStudio 3 configurations for Rush SR vehicles. Download the lat
 | MXS 1.2 (square, 6 LEDs) | Yes (KLine) | **Rush SR MXS v1.x KLine** |
 | MXS v2 (newer, rounded) | No (DBW) | **Rush SR MXS v2 DBW** |
 | MXS v2 (newer, rounded) | Yes (KLine) | **Rush SR MXS v2 KLine** |
-| MXM (no display) | No (DBW) | **RUSH SR MXM DBW** |
-| MXM (no display) | Yes (KLine) | **RUSH SR MXM KLine** |
+| MXM (compact, smaller screen) | No (DBW) | **RUSH SR MXM DBW** |
+| MXM (compact, smaller screen) | Yes (KLine) | **RUSH SR MXM KLine** |
 
 **Not sure if you have KLine or DBW?** If your car has a physical throttle cable, it's KLine (2021–early 2023 builds). If your data channels show names starting with "SDS" (Suzuki Diagnostic System), that's also KLine. All other cars are Drive-by-Wire (DBW).
 
